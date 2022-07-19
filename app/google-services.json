@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "206189811511",
+    "project_id": "login-signup-43bf5",
+    "storage_bucket": "login-signup-43bf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206189811511:android:07eba5feef0945d4ccecb2",
+        "android_client_info": {
+          "package_name": "com.hrishikesh.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206189811511-9dttj3tk63l7gms5rk2j3tg24luib7hm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hrishikesh.loginsignup",
+            "certificate_hash": "c723d14692ed193e546cd29d41bf92f12ac5d756"
+          }
+        },
+        {
+          "client_id": "206189811511-45udo7lqu1o8khmdr27c7cgu0vlfet9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqzbk9_DA0VrFMYQjod_ZEQE3dZUfLotk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206189811511-45udo7lqu1o8khmdr27c7cgu0vlfet9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
